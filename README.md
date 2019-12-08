@@ -7,3 +7,9 @@
 ### 支持繁体和简体敏感词过滤功能
 
 ### test_sensitive_word 项目为iOS平台测试程序
+
+
+### opencc github address : [link](https://github.com/AsteriskZuo/opencc)
+### test_sensitive_word github address : [link](https://github.com/AsteriskZuo/test_sensitive_word)
+### SensitiveWord github address : [link](https://github.com/AsteriskZuo/SensitiveWord)
+### original opencc github address : [link](https://github.com/BYVoid/OpenCC)
